@@ -1,6 +1,6 @@
 # Building a REST API with Node.js, MySQL, and Hosting on Render | Part 1
 
-[![Watch the Video](https://img.youtube.com/vi/hhm4eR1O8Wk/0.jpg)](https://youtu.be/hhm4eR1O8Wk)
+[![Watch the Video](thumbnail.png)](https://youtu.be/hhm4eR1O8Wk)
 
 Welcome to Part 1 of our exciting series on building a powerful REST API using Node.js, connecting to a remote MySQL server, and hosting it on Render. If you've watched the video, you're in the right place to access the accompanying code and resources.
 
