@@ -1,4 +1,4 @@
-# Building a REST API with Node.js, MySQL, and Hosting on Render | Part 1
+# Building a REST API with Node.js, MySQL, and Hosting on Render | Part 1 🔥
 
 [![Watch the Video](thumbnail.png)](https://youtu.be/hhm4eR1O8Wk)
 
