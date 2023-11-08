@@ -2,7 +2,7 @@
 
 [🎬 Part 1 ](https://youtu.be/hhm4eR1O8Wk)
 
-[🎬 Part 2 ](https://youtu.be/hhm4eR1O8Wk)
+[🎬 Part 2 ](https://youtu.be/eWIHcv32Rtg)
 
 ![rest api](thumbnail.png)
 
